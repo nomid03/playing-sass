@@ -1,0 +1,26 @@
+header {
+  text-align: center;
+}
+
+body {
+  background-color: aqua;
+}
+
+.v-menu {
+  color: azure;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
+/*# sourceMappingURL=style.css.map */
